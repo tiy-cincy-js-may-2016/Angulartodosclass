@@ -1,0 +1,27 @@
+{
+  "name": "t-tshirt-layout",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichaelSavoia/T-Shirt-Layout.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MichaelSavoia/T-Shirt-Layout/issues"
+  },
+  "homepage": "https://github.com/MichaelSavoia/T-Shirt-Layout#readme",
+  "devDependencies": {
+    "browser-sync": "^2.17.0",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.2"
+  },
+  "dependencies": {
+    "angular": "^1.5.8"
+  }
+}
